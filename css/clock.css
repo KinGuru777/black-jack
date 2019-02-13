@@ -1,0 +1,10 @@
+.MobileClock {
+  text-align: center;
+  color: whitesmoke;
+  width: 72px;
+  height: 144px;
+  background-image: url("../images/72px-IPhone_7_Jet_Black.svg.png");
+  background-repeat: no-repeat;
+  padding-top: 30px; }
+  .MobileClockTimer {
+    font-size: 14px; }
